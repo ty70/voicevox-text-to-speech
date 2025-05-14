@@ -1,6 +1,11 @@
 # 仮想環境ディレクトリを無視（名前が venv の場合）
 venv/
 
+# voicevox関連を無視
+voicevox_engine-linux-nvidia-0.23.0.7z.001
+voicevox_engine-linux-nvidia-0.23.0.7z.002
+linux-nvidia/
+
 # 他の一般的な Python 開発用無視リスト（推奨）
 __pycache__/
 *.pyc
@@ -13,3 +18,4 @@ __pycache__/
 *.egg-info/
 .env
 .DS_Store
+.gitignore
