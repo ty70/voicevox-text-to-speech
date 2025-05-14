@@ -19,3 +19,6 @@ __pycache__/
 .env
 .DS_Store
 .gitignore
+
+# 出力
+output.mp3
