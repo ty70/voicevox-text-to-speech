@@ -94,9 +94,12 @@ python voicevox_reader.py --input input.txt --output output.mp3 --speaker_id 3
 
 ```
 .
-├── voicevox_reader.py
-├── input.txt
-└── output.mp3
+├── LICENSE
+├── README.md(いまここ)
+├── requirements.txt
+├── sample.mp3
+├── sample.txt
+└─ voicevox_reader.py
 ```
 
 ---
